@@ -5,7 +5,7 @@
 I like to build stuff with the power of code.
 
 <!-- Skills: JAVASCRIPT, HTML, CSS, REACT, NODE, PYTHON, C++, MONGODB -->
-Skills: ![js html css](html-css-and-javascript-logo-html-css-logo.png) ![react js]() ![node js]() ![python](python.png){:height="50%" width="50%"} ![c++](c++.png)
+Skills: ![js html css](html-css-and-javascript-logo-html-css-logo.png) ![react js]() ![node js]() ![python](python.png|width=50) ![c++](c++.png)
 
 - 📫 How to reach me: khamkarchinmay4@gmail.com 
 - ⚡ Fun fact:  It's not a bug, It's a feature. 
