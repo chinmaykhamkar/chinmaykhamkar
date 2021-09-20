@@ -6,18 +6,20 @@
 
 I like to build stuff with the power of code.
 
-<!-- Skills: JAVASCRIPT, HTML, CSS, REACT, NODE, PYTHON, C++, MONGODB -->
+## SKILLS
+LANGUAGE - JAVASCRIPT, C++, PYTHON, C
 
-Skills:
+FRONTEND - REACT JS, HTML, JS
 
-<p>
-  <img src="./html-css-and-javascript-logo-html-css-logo.png.png" width="50" height="50" title="html">
-  <img src="./react.png.png" width="50" height="50" title="react">
-  <img src="./nodejs.png.png" width="50" height="50" title="nodejs">
-  <img src="./c++.png" width="50" height="50" title="c++">
-    <img src="./python.png.png" width="50" height="50" title="python">
+BACKEND - NODE JS
+DATABASE - MONGODB, MySQL
 
-</p>
+VERSION CONTROL - GIT
+
+HOSTING - HEROKU
+
+OTHER- MACHINE LEARNING, DEEP LEARNING
+
 
 - 📫 How to reach me: khamkarchinmay4@gmail.com
 - ⚡ Fun fact: It's not a bug, It's a feature.
