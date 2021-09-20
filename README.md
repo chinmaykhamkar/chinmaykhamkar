@@ -4,7 +4,8 @@
 
 I like to build stuff with the power of code.
 
-Skills: JAVASCRIPT, HTML, CSS, REACT, NODE, PYTHON, C++, MONGODB
+<!-- Skills: JAVASCRIPT, HTML, CSS, REACT, NODE, PYTHON, C++, MONGODB -->
+Skills: ![js html css](html-css-and-javascript-logo-html-css-logo.png) ![react js](react.png) ![node js](nodejs.png)
 
 - 📫 How to reach me: khamkarchinmay4@gmail.com 
 - ⚡ Fun fact:  It's not a bug, It's a feature. 
