@@ -7,19 +7,17 @@
 I like to build stuff with the power of code.
 
 ## SKILLS
-LANGUAGE - JAVASCRIPT, C++, PYTHON, C
+LANGUAGE - Javascript, Typescript C++, PYTHON, C, Java
 
-FRONTEND - REACT JS, HTML, CSS, JS
+FRONTEND - React JS, HTML, CSS, Angular
 
-BACKEND - NODE JS
+BACKEND - Node JS
 
-DATABASE - MONGODB, MySQL, FIREBASE
+DATABASE - MongoDB, MySQL, Firebase
 
 VERSION CONTROL - GIT
 
-HOSTING - HEROKU, NETFILY, VERCEL
-
-OTHER- MACHINE LEARNING, DEEP LEARNING
+HOSTING - Heroku, Netlify, Vercel
 
 
 - 📫 How to reach me: khamkarchinmay4@gmail.com
