@@ -11,7 +11,7 @@ LANGUAGE - Javascript, Typescript C++, PYTHON, C, Java
 
 FRONTEND - React JS, HTML, CSS, Angular
 
-BACKEND - Node JS
+BACKEND - Node JS, Flask
 
 DATABASE - MongoDB, MySQL, Firebase
 
