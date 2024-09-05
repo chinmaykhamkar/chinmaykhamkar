@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Chinmay
 
-#### I am a fullstack developer
+#### I am a Software Engineer
 
 ![I am a fullstack developer ](githublogo.png)
 
