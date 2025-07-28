@@ -1,36 +1,43 @@
-### Hi there 👋, my name is Chinmay
+# Hey, I'm Chinmay 👋
 
-#### I am a Software Engineer
+**Software Engineer** at Purs Payments • **AWS Alum** • Building tools that people actually use
 
-![I am a fullstack developer ](githublogo.png)
+Currently engineer #10 at an early-stage payments startup in Portland, with prior experience building scalable systems at AWS. I love working in fast-paced environments where I can ship features and see real user impact.
 
-I like to build stuff with the power of code.
+## 🚀 What I've Built
 
-## SKILLS
-LANGUAGE - Javascript, Typescript C++, PYTHON, C, Java
+**Open Source Projects with Real Users:**
+- **[Automated-Cold-Email](https://github.com/chinmaykhamkar/automated-cold-email)** - Helped friends land interviews • *25+ ⭐*
+- **[VS Code Lofi-Mix](https://github.com/chinmaykhamkar/lofi-mix)** - Music extension for developers • *190+ downloads*
+- **[StackOverflow-ChatGPT](https://github.com/chinmaykhamkar/stackoverflow-chatgpt)** - Chrome extension • *13+ ⭐*
+- **[LoR Manager](https://github.com/chinmaykhamkar/lor-manager)** - Used by professors at my undergrad college
+- **[timeago-format](https://www.npmjs.com/package/timeago-format)** - NPM package • *50+ downloads*
+- **[Chat with PDFs & YouTube](https://github.com/chinmaykhamkar/youtube-pdf-chatbot)** - AI-powered document analysis
 
-FRONTEND - React JS, HTML, CSS, Angular
+## 🛠️ Tech Stack
 
-BACKEND - Node JS, Flask
+```
+Languages    JavaScript • TypeScript • Python • Java • C/C++
+Frontend     React • HTML/CSS • Bootstrap
+Backend      Node.js • Flask • AWS Lambda
+Cloud        AWS (Lambda, DynamoDB, S3, Cognito) • GraphQL
+Databases    MongoDB • MySQL • DynamoDB • Pinecone
+Tools        Git • Docker • AWS CDK • LangChain
+```
 
-DATABASE - MongoDB, MySQL, Firebase
+## 📊 GitHub Stats
 
-VERSION CONTROL - GIT
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinmaykhamkar&show_icons=true&count_private=true&theme=default&hide_border=true)
 
-HOSTING - Heroku, Netlify, Vercel
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chinmaykhamkar&theme=default&hide_border=true)
 
+## 📫 Let's Connect
 
-- 📫 How to reach me: khamkarchinmay4@gmail.com
-- ⚡ Fun fact: It's not a bug, It's a feature.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmaykhamkar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://chinmaykhamkar-github-io.vercel.app/#home)
+[![Blog](https://img.shields.io/badge/Blog-2962FF?style=flat&logo=hashnode&logoColor=white)](https://chinmaykhamkar.hashnode.dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khamkarchinmay4@gmail.com)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chinmaykhamkar) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://chinmaykhamkar.hashnode.dev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chinmaykhamkar/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/chinmaykhamkar9) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://chinmaykhamkar-github-io.vercel.app/#home)
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaykhamkar)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmaykhamkar&show_icons=true&count_private=true)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chinmaykhamkar)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chinmaykhamkar)
+*"It's not a bug, it's a feature."* ⚡
