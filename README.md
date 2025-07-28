@@ -19,11 +19,6 @@ Currently engineer #10 at an early-stage payments startup in Portland, with prio
 - **[timeago-format](https://www.npmjs.com/package/timeago-format)** - NPM package • *50+ downloads*
 - **[Chat with PDFs & YouTube](https://github.com/chinmaykhamkar/youtube-pdf-chatbot)** - AI-powered document analysis
 
-## 💼 Experience Highlights
-
-- **Purs Payments** - Built merchant onboarding flow (10% conversion increase), transaction analytics dashboard
-- **AWS Internship** - Designed IoT device communication channels, migrated APIs to dataplane
-- **USC Dornsife** - Developed activity tracking web app for 9k+ users
 
 ## 🛠️ Tech Stack
 
