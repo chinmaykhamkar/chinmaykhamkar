@@ -18,21 +18,15 @@ Currently engineer #10 at an early-stage payments startup in Portland, with prio
 - **[timeago-format](https://www.npmjs.com/package/timeago-format)** - NPM package • *50+ downloads*
 - **[Chat with PDFs & YouTube](https://github.com/chinmaykhamkar/youtube-pdf-chatbot)** - AI-powered document analysis
 
-## 💼 Experience Highlights
-
-- **Purs Payments** - Built merchant onboarding flow (10% conversion increase), transaction analytics dashboard
-- **AWS Internship** - Designed IoT device communication channels, migrated APIs to dataplane
-- **USC Dornsife** - Developed activity tracking web app for 9k+ users
-
 ## 🛠️ Tech Stack
 
 ```
 Languages    JavaScript • TypeScript • Python • Java • C/C++
-Frontend     React • HTML/CSS • Bootstrap
-Backend      Node.js • Flask • AWS Lambda
-Cloud        AWS (Lambda, DynamoDB, S3, Cognito) • GraphQL
-Databases    MongoDB • MySQL • DynamoDB • Pinecone
-Tools        Git • Docker • AWS CDK • LangChain
+Frontend     React • Next • React Native • Expo • HTML/CSS • Bootstrap • Tailwind 
+Backend      Node.js • Flask
+Cloud        AWS (Lambda, DynamoDB, S3, Cognito)
+Databases    MongoDB • MySQL • DynamoDB • Pinecone • Supabase
+Tools        Git  • AWS CDK • LangChain • Cursor • Claude code
 ```
 
 ## 📊 GitHub Stats
