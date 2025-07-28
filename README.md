@@ -2,7 +2,11 @@
 
 **Software Engineer** at Purs Payments • **AWS Alum** • Building tools that people actually use
 
-Currently engineer #10 at an early-stage payments startup in Portland, with prior experience building scalable systems at AWS. I love working in fast-paced environments where I can ship features and see real user impact. Strong emphasis on taste and ability to show up no matter what.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="600" alt="Coding GIF">
+</div>
+
+Currently engineer #10 at an early-stage payments startup in Portland, with prior experience building scalable systems at AWS. I love working in fast-paced environments where I can ship features and see real user impact.
 
 ## 🚀 What I've Built
 
@@ -13,6 +17,12 @@ Currently engineer #10 at an early-stage payments startup in Portland, with prio
 - **[LoR Manager](https://github.com/chinmaykhamkar/lor-manager)** - Used by professors at my undergrad college
 - **[timeago-format](https://www.npmjs.com/package/timeago-format)** - NPM package • *50+ downloads*
 - **[Chat with PDFs & YouTube](https://github.com/chinmaykhamkar/youtube-pdf-chatbot)** - AI-powered document analysis
+
+## 💼 Experience Highlights
+
+- **Purs Payments** - Built merchant onboarding flow (10% conversion increase), transaction analytics dashboard
+- **AWS Internship** - Designed IoT device communication channels, migrated APIs to dataplane
+- **USC Dornsife** - Developed activity tracking web app for 9k+ users
 
 ## 🛠️ Tech Stack
 
