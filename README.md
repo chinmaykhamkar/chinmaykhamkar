@@ -3,7 +3,7 @@
 **Software Engineer** at Purs Payments • **AWS Alum** • Building tools that people actually use
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="600" alt="Coding GIF">
+  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="300" alt="Coding GIF">
 </div>
 
 Currently engineer #10 at an early-stage payments startup in Portland, with prior experience building scalable systems at AWS. I love working in fast-paced environments where I can ship features and see real user impact.
