@@ -2,7 +2,7 @@
 
 **Software Engineer** at Purs Payments • **AWS Alum** • Building tools that people actually use
 
-Currently engineer #10 at an early-stage payments startup in Portland, with prior experience building scalable systems at AWS. I love working in fast-paced environments where I can ship features and see real user impact.
+Currently engineer #10 at an early-stage payments startup in Portland, with prior experience building scalable systems at AWS. I love working in fast-paced environments where I can ship features and see real user impact. Strong emphasis on taste and ability to show up no matter what.
 
 ## 🚀 What I've Built
 
